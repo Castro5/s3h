@@ -1,0 +1,30 @@
+{
+    "addr_history": {
+        "bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h": []
+    },
+    "addresses": {
+        "bc1qm34lsc65zpw79lxes69zkqmk6ee3ewf0j77s3h": {}
+    },
+    "db_metadata": {
+        "creation_timestamp": 1720151477,
+        "first_electrum_version_used": "4.5.5"
+    },
+    "fiat_value": {},
+    "frozen_coins": {},
+    "invoices": {},
+    "labels": {},
+    "num_parents": {},
+    "payment_requests": {},
+    "prevouts_by_scripthash": {},
+    "qt-console-history": [],
+    "seed_version": 59,
+    "spent_outpoints": {},
+    "stored_height": 850761,
+    "transactions": {},
+    "tx_fees": {},
+    "txi": {},
+    "txo": {},
+    "use_encryption": false,
+    "verified_tx3": {},
+    "wallet_type": "imported"
+}
