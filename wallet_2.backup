@@ -1,0 +1,296 @@
+{
+    "addr_history": {
+        "bc1q05q2tsh6g70008ptemnexxye6cs55n2eskndeq": [],
+        "bc1q5fd3n0cuptuwms9hcfknz6g924zfdegjfwqtfj": [],
+        "bc1q6rtt74dhsml867r8p995w33mzee3e305hhyafa": [],
+        "bc1q73s4v243w0em2v3gvtk4w73s08nvtsrr0q4724": [],
+        "bc1q754fusfk3uty0s7yp5m95uc4zsnrl7ru9enhrk": [],
+        "bc1q8vjn7fw6crmmwvcsxpjwzarus0ekq8mwqvzhjl": [],
+        "bc1qa763wzstytujcx09gz27p8v7luvjrp0udk7tqc": [],
+        "bc1qa8r5nnym5qeyghec88ycpcz3wp7kju2pzlj9v7": [],
+        "bc1qalpeuq3streaj2q0t0rghcgvk6y6j9u4r3fxvg": [],
+        "bc1qatezr4wcyuytnvccyvfx9jjl6xdeugg7qnetzt": [],
+        "bc1qdn8dtckdscfzqzw83k9pd2fay4pmya0qj0xmyu": [],
+        "bc1qdwgctsal7cmjgluglrh30mdj9j7tpd9y8q9p6z": [],
+        "bc1qehx2jtna2vck5n9dmu8ne49jcxd8aavrsr4kda": [],
+        "bc1qfeqd6plt7f8r9v0heage878p2zj486zvrrtac2": [],
+        "bc1qgtfvk5s32sqws2wqzcjx7n4tad50ttf674sjk6": [],
+        "bc1qhcl78a4jy4sn0wt9j066f5qxjfgghmj4h3d2fu": [],
+        "bc1qkchmxf3y3x6eqvjcaja3vzpwyrn3jq9p4fvwym": [],
+        "bc1ql3l5h0lnp684xh2n5478unakhy058pmdq3qm0v": [],
+        "bc1qlgfqhsnwhe5ytqa4qtutemnvezdad24djy7lx8": [],
+        "bc1qltllzesl92xl3e95qdtcc8xj0wg34v5nzs6ers": [],
+        "bc1qm3r3hz48xnmk8axjl0qd0x94qssln5y63x3sle": [],
+        "bc1qp6ns0sfwg084zvy3wfagruyglsf3wc8978lt6s": [],
+        "bc1qq0j8t0hfx0w7qg7dp7q2lj0a6f0cqnr4ppy7nn": [],
+        "bc1qq2ru4eqrt3sklhz7auzs6scrtw4gwct2xzxwy0": [],
+        "bc1qra42dnpeuy628d7ny0v6s0ntu34wjtjn8l80vx": [],
+        "bc1qs4amegu4c70rc7xft6fdw2f8cvzljyahclqegc": [],
+        "bc1qv7q2pp0l9aa6mvaqc08vdqtsdmex4e8kcvelzw": [],
+        "bc1qxvtjrswzxakx4y4g7x4d08rml50hy0kchxpgag": [],
+        "bc1qygt807ncdzqtu3l0285gcc4n4hmx738vqeza4p": [],
+        "bc1qyq34wwt6z9frwnydu3pgaga7dpfkdj9dlj767s": []
+    },
+    "addresses": {
+        "change": [
+            "bc1qatezr4wcyuytnvccyvfx9jjl6xdeugg7qnetzt",
+            "bc1q6rtt74dhsml867r8p995w33mzee3e305hhyafa",
+            "bc1qa763wzstytujcx09gz27p8v7luvjrp0udk7tqc",
+            "bc1q73s4v243w0em2v3gvtk4w73s08nvtsrr0q4724",
+            "bc1qdn8dtckdscfzqzw83k9pd2fay4pmya0qj0xmyu",
+            "bc1qkchmxf3y3x6eqvjcaja3vzpwyrn3jq9p4fvwym",
+            "bc1qlgfqhsnwhe5ytqa4qtutemnvezdad24djy7lx8",
+            "bc1qp6ns0sfwg084zvy3wfagruyglsf3wc8978lt6s",
+            "bc1qxvtjrswzxakx4y4g7x4d08rml50hy0kchxpgag",
+            "bc1qyq34wwt6z9frwnydu3pgaga7dpfkdj9dlj767s"
+        ],
+        "receiving": [
+            "bc1qm3r3hz48xnmk8axjl0qd0x94qssln5y63x3sle",
+            "bc1q8vjn7fw6crmmwvcsxpjwzarus0ekq8mwqvzhjl",
+            "bc1q754fusfk3uty0s7yp5m95uc4zsnrl7ru9enhrk",
+            "bc1qfeqd6plt7f8r9v0heage878p2zj486zvrrtac2",
+            "bc1qgtfvk5s32sqws2wqzcjx7n4tad50ttf674sjk6",
+            "bc1qa8r5nnym5qeyghec88ycpcz3wp7kju2pzlj9v7",
+            "bc1qra42dnpeuy628d7ny0v6s0ntu34wjtjn8l80vx",
+            "bc1ql3l5h0lnp684xh2n5478unakhy058pmdq3qm0v",
+            "bc1qltllzesl92xl3e95qdtcc8xj0wg34v5nzs6ers",
+            "bc1q05q2tsh6g70008ptemnexxye6cs55n2eskndeq",
+            "bc1qs4amegu4c70rc7xft6fdw2f8cvzljyahclqegc",
+            "bc1qq0j8t0hfx0w7qg7dp7q2lj0a6f0cqnr4ppy7nn",
+            "bc1qhcl78a4jy4sn0wt9j066f5qxjfgghmj4h3d2fu",
+            "bc1qalpeuq3streaj2q0t0rghcgvk6y6j9u4r3fxvg",
+            "bc1q5fd3n0cuptuwms9hcfknz6g924zfdegjfwqtfj",
+            "bc1qv7q2pp0l9aa6mvaqc08vdqtsdmex4e8kcvelzw",
+            "bc1qdwgctsal7cmjgluglrh30mdj9j7tpd9y8q9p6z",
+            "bc1qq2ru4eqrt3sklhz7auzs6scrtw4gwct2xzxwy0",
+            "bc1qehx2jtna2vck5n9dmu8ne49jcxd8aavrsr4kda",
+            "bc1qygt807ncdzqtu3l0285gcc4n4hmx738vqeza4p"
+        ]
+    },
+    "db_metadata": {
+        "creation_timestamp": 1720197074,
+        "first_electrum_version_used": "4.5.5"
+    },
+    "fiat_value": {},
+    "frozen_coins": {},
+    "invoices": {
+        "6853c4b6fb": {
+            "amount_msat": "!",
+            "bip70": null,
+            "exp": 0,
+            "height": 850819,
+            "lightning_invoice": null,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1qa8r5nnym5qeyghec88ycpcz3wp7kju2pzlj9v7",
+                    "!"
+                ]
+            ],
+            "time": 1720197610
+        },
+        "68d0b27c76": {
+            "amount_msat": 65780000,
+            "bip70": null,
+            "exp": 0,
+            "height": 850819,
+            "lightning_invoice": null,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1qa8r5nnym5qeyghec88ycpcz3wp7kju2pzlj9v7",
+                    65780
+                ]
+            ],
+            "time": 1720197680
+        }
+    },
+    "keystore": {
+        "derivation": "m/84h/0h/0h",
+        "pw_hash_version": 1,
+        "root_fingerprint": "e24cbe9b",
+        "type": "bip32",
+        "xprv": "zprvAczLCUrfDVKq8GZShBaAHjZ9ptSv77hjP6nq7dRhSQovmaCAmVsPrC3RNPmnWhZB1NGhJL2VGRsyCLgDaLpFrrmFt1dzJZm353k6royMFN6",
+        "xpub": "zpub6qygbzPZ3rt8LkduoD7AesVtNvHQWaRakKiRv1qJzkLueNXKK3BePzMuDeuzJLPxpQJi3hgTQTvCwuR3LesZAUw9TuhdJFtFY6ezcSbDddn"
+    },
+    "labels": {},
+    "num_parents": {
+        "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a": 2
+    },
+    "payment_requests": {
+        "043802d683": {
+            "amount_msat": null,
+            "bip70": null,
+            "exp": 86400,
+            "height": 850819,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1q8vjn7fw6crmmwvcsxpjwzarus0ekq8mwqvzhjl",
+                    0
+                ]
+            ],
+            "payment_hash": null,
+            "time": 1720197113
+        },
+        "2bed03ab58": {
+            "amount_msat": null,
+            "bip70": null,
+            "exp": 86400,
+            "height": 850819,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1qm3r3hz48xnmk8axjl0qd0x94qssln5y63x3sle",
+                    0
+                ]
+            ],
+            "payment_hash": null,
+            "time": 1720197111
+        },
+        "64ead5297c": {
+            "amount_msat": null,
+            "bip70": null,
+            "exp": 86400,
+            "height": 850819,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1qa8r5nnym5qeyghec88ycpcz3wp7kju2pzlj9v7",
+                    0
+                ]
+            ],
+            "payment_hash": null,
+            "time": 1720197116
+        },
+        "77f1b3f5b9": {
+            "amount_msat": null,
+            "bip70": null,
+            "exp": 86400,
+            "height": 850819,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1q754fusfk3uty0s7yp5m95uc4zsnrl7ru9enhrk",
+                    0
+                ]
+            ],
+            "payment_hash": null,
+            "time": 1720197114
+        },
+        "78ab25f6d6": {
+            "amount_msat": null,
+            "bip70": null,
+            "exp": 86400,
+            "height": 850819,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1qgtfvk5s32sqws2wqzcjx7n4tad50ttf674sjk6",
+                    0
+                ]
+            ],
+            "payment_hash": null,
+            "time": 1720197115
+        },
+        "f1f14bd55b": {
+            "amount_msat": null,
+            "bip70": null,
+            "exp": 86400,
+            "height": 850819,
+            "message": "",
+            "outputs": [
+                [
+                    0,
+                    "bc1qfeqd6plt7f8r9v0heage878p2zj486zvrrtac2",
+                    0
+                ]
+            ],
+            "payment_hash": null,
+            "time": 1720197114
+        }
+    },
+    "prevouts_by_scripthash": {
+        "0f5ffe2f849b26d1a47fd1c889f4db020b433ea3dc248fbc5394bbdbf3b4f02e": {
+            "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a:1": 99931620
+        },
+        "153ca5fd52ed1cdd7a9e1306b5f1249b6544721f4f3915d14d9e3c4a04f8d7b4": {
+            "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88:1": 618497545400
+        },
+        "2c2283f58fff796376c76d23dbff396d2f657464d3d69caa8c1a139fbdf68928": {
+            "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88:0": 100000000
+        },
+        "4bc7c0eb2296c4917cf66976e5cf85138d8d20be3af1752f9c3dfc5e1e027c4e": {
+            "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a:0": 65780
+        }
+    },
+    "qt-console-history": [],
+    "seed_version": 59,
+    "spent_outpoints": {
+        "7cc092679ec6b007cd4501217951e498ff528ef57653ffa8c22d8baa5bc64cc9": {
+            "1": "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88"
+        },
+        "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88": {
+            "0": "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a"
+        }
+    },
+    "stored_height": 850824,
+    "transactions": {
+        "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a": "02000000000101886fa5ab15ec1bc06289c794eedbcd2acb5b64782c7d96a099a2c40907b2e8d20000000000fdffffff02f400010000000000160014e9c749cc9ba032445f3839c980e051707d697141e4d5f40500000000160014eaf221d5d82708b9b318231262ca5fd19b9e211e0247304402203613cf56f5fd30c4f23987e39d947d952d31e23f0e849920838e2ccee22bb78b022050d7fb539a29c76b06725b9d63257886086303be3cef654614d1bfc3b52eea1001210263f2cefb60c4ab103f4f4e1e4ef70fc0c98903f7fe4f40f4b9651013b535a14783fb0c00",
+        "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88": "02000000000101c94cc65baa8b2dc2a8ff5376f58e52ff98e45179210145cd07b0c69e6792c07c0100000000fdffffff0200e1f50500000000160014dc471b8aa734f763f4d2fbc0d798b50421f9d09ab89453019000000016001450d37d57c679b616437850aaf8246ce7ba2620ab02473044022046ff7986c925638874a1af946403375564927bc609fcb5d851a45bf2dd6d193702200b2c083be7ec62ca81f59df82eeab7ad9297fa1576831504c2609822c646137501210203eddb31c37581c713abc1edd444296914c3818e523266409042a90ee8bac06b83fb0c00"
+    },
+    "tx_fees": {
+        "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a": [
+            2600,
+            true,
+            1
+        ],
+        "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88": [
+            null,
+            false,
+            1
+        ]
+    },
+    "txi": {
+        "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a": {
+            "bc1qm3r3hz48xnmk8axjl0qd0x94qssln5y63x3sle": {
+                "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88:0": 100000000
+            }
+        }
+    },
+    "txo": {
+        "b9d5c1806c1411ea5f24427d955958c15812a0d7e2a6ff8c6f3be55dfc001f8a": {
+            "bc1qa8r5nnym5qeyghec88ycpcz3wp7kju2pzlj9v7": {
+                "0": [
+                    65780,
+                    false
+                ]
+            },
+            "bc1qatezr4wcyuytnvccyvfx9jjl6xdeugg7qnetzt": {
+                "1": [
+                    99931620,
+                    false
+                ]
+            }
+        },
+        "d2e8b20709c4a299a0967d2c78645bcb2acddbee94c78962c01bec15aba56f88": {
+            "bc1qm3r3hz48xnmk8axjl0qd0x94qssln5y63x3sle": {
+                "0": [
+                    100000000,
+                    false
+                ]
+            }
+        }
+    },
+    "use_encryption": false,
+    "verified_tx3": {},
+    "wallet_nonce": 1,
+    "wallet_type": "standard"
+}
